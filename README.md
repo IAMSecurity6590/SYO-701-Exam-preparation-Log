@@ -123,6 +123,3 @@ Combined
 91.7%
 ![Security+ Practice Exam Results](Screenshot%20(22).png) 
 
-
-
-![Security+ Practice Exam Results](Screenshot%20(22).png)
